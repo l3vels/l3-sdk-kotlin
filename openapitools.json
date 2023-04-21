@@ -1,0 +1,26 @@
+{
+  "$schema": "./node_modules/@openapitools/openapi-generator-cli/config.schema.json",
+  "spaces": 2,
+  "generator-cli": {
+    "version": "6.5.0"
+  },
+  "generatorName": "kotlin",
+  "generatorVersion": "5.3.0",
+  "artifactVersion": "1.0.0",
+  "apiPackage": "com.l3vels.sdk",
+  "modelPackage": "com.l3vels.sdk.model",
+  "invokerPackage": "com.l3vels.sdk",
+  "groupId": "com.l3vels",
+  "artifactId": "l3-sdk-kotlin",
+  "artifactDescription": "L3vels Kotlin SDK",
+  "packageName": "com.l3vels.sdk",
+  "packageNameSlug": "com-l3vels-sdk",
+  "projectName": "L3vels Kotlin SDK",
+  "developerName": "L3vels",
+  "developerEmail": "dev@l3vels.xyz",
+  "developerOrganization": "L3vels",
+  "developerOrganizationUrl": "https://l3vels.xyz",
+  "licenseName": "Apache 2.0",
+  "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.html",
+  "additionalProperties": {}
+}
